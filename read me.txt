@@ -1,0 +1,8 @@
+ this is a responsive  website.
+it contains two pages 'home' and 'about'
+home button has three card. one of the card expands for more information.
+another card pops on mouse hover.
+third card takes client to 'about' page 
+
+
+Task completed!!!
